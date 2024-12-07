@@ -1,1 +1,2 @@
-this is theconflicting content in main 
+this is the combined or resolved content from both branches
+
